@@ -1,5 +1,5 @@
 # politische_oekologie_plastik
-Berechnungen für Plastikemissionen in Artikel "Was unterm Strich zählt" (politische ökologie 02/20)
+Berechnungen für Artikel "Was unterm Strich zählt" (politische ökologie 02/20)
 
 Rechnungen für 4 Szenarien, die sich jeweils unterscheiden hinsichtlicher der Annahmen:
 1) positive oder negative Emissionen des Plastikrecyclings
